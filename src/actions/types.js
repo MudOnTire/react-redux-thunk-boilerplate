@@ -1,0 +1,4 @@
+const FETCH_POST = 'FETCH_POST';
+const NEW_POST = 'NEW_POST';
+
+export { FETCH_POST, NEW_POST };
